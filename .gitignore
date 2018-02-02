@@ -33,7 +33,6 @@ local.properties
 ## Obj-C/Swift specific
 *.hmap
 *.ipa
-*.framework
 
 # node.js
 #
